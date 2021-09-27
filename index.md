@@ -5,9 +5,8 @@
 <br></br>
 
 
-[Basic Information](#basic-information)
-<br></br>
-[Something Deeper](#something-deeper)
+- [Basic Information](#basic-information)
+- [Something Deeper](#something-deeper)
 
 
 ## Basic Information
