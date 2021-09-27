@@ -29,7 +29,7 @@ But in the real life, success does not matter since I believes that only these t
 4. Lovers
 5. Friends
 
-My favorite language is: `Java`<br>
+My favorite language is: `Java`
 My favorite website(same as most programmers) is: [mysterious website](https://stackoverflow.com/)<br>
 My favorite anime is: **Cowboy Bebop** [CB image](cb.jpg)
 
