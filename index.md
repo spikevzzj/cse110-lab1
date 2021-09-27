@@ -2,7 +2,6 @@
 
 ### **_Zijian Zhang_**
 <img src="pic.jpg" width="200">
-<br></br>
 
 
 - [Basic Information](#basic-information)
